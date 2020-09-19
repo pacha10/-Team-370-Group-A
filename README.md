@@ -60,7 +60,7 @@ body {
 
 </div>
 
-<h2>Sidenav Example</h2>
+<h2>ZNAKEKELE Health Clinic</h2>
 <p>Click on the element below to open
 the side navigation menu.</p>
 
